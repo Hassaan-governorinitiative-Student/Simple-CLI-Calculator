@@ -1,0 +1,22 @@
+{
+  "name": " @hassaan-simple-cli-calculator",
+  "version": "1.0.0",
+  "description": "\"This is My First Project Of Simple CLI Calculator by using TypeScript and Node.js\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publish config": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Muhammad Hassaan\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
